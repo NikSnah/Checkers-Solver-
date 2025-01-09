@@ -1,0 +1,1 @@
+{"license": "WTFPL", "document_names": {"description": "DESCRIPTION.rst"}, "name": "tim", "metadata_version": "2.0", "contacts": [{"role": "author", "email": "olivier@lethanh.be", "name": "Olivier Le Thanh Duong"}], "generator": "bdist_wheel (0.23.0)", "summary": "TIM: Timed Iteration Monitor", "project_urls": {"Home": "https://github.com/olethanh/tim"}, "version": "0.5"}
